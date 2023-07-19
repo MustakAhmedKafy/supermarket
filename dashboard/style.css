@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.product i{
+    color: rgba(0, 60, 255, 0.849);
+}
+.profile img{
+    height: 200px;
+    width: 200px;
+}
